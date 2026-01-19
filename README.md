@@ -113,10 +113,10 @@ A comprehensive **React-based Admin Dashboard** application featuring business a
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/admin-dashboard.git
+git clone https://github.com/Singh11coder/DigitalBusinessPanel_React_App.git
 
 # Navigate to the project
-cd admin-dashboard
+cd DigitalBusiness-AdminPanel
 
 # Install dependencies
 npm install
