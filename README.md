@@ -112,13 +112,18 @@ A comprehensive **React-based Admin Dashboard** application featuring business a
 ## ![Dashboard Preview](screenshots/dashboard.png)
 <img width="1914" height="892" alt="image" src="https://github.com/user-attachments/assets/f78b9617-7912-4c16-9b6c-2f1c6974920f" />
 
+
 <img width="1904" height="879" alt="image" src="https://github.com/user-attachments/assets/830819da-dadf-4255-a09e-dc0e2140ddd7" />
+
 
 <img width="1905" height="877" alt="image" src="https://github.com/user-attachments/assets/fef0ef75-fcb9-4ffe-ba57-e35782096a54" />
 
+
 <img width="1903" height="881" alt="image" src="https://github.com/user-attachments/assets/d4c1144a-a3b3-4c27-9d33-7837471fec03" />
 
+
 <img width="1905" height="878" alt="image" src="https://github.com/user-attachments/assets/c6c3d4bb-6326-48f7-ba41-8c6283dbe4b4" />
+
 
 <img width="1902" height="875" alt="image" src="https://github.com/user-attachments/assets/8756faa2-d755-440e-978e-fa52821db413" />
 
