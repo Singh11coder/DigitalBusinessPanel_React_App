@@ -109,7 +109,7 @@ A comprehensive **React-based Admin Dashboard** application featuring business a
 
 ---
 
-## ![Dashboard Preview](screenshots/dashboard.png)
+## [Dashboard Preview](screenshots/dashboard.png)
 <img width="1914" height="892" alt="image" src="https://github.com/user-attachments/assets/f78b9617-7912-4c16-9b6c-2f1c6974920f" />
 
 
@@ -143,11 +143,3 @@ npm install
 
 # Start the development server
 npm start
-
-
-
-
-
-
-
-
